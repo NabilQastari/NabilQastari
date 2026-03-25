@@ -87,37 +87,9 @@ I'm a developer who works across the full stack — from building responsive web
 
 ---
 
-## 📌 Featured Projects
-
-> _Add your projects here — name, description, and tech used._
-
-### 🔹 [Project Name](https://github.com/NabilQastari/project)
-What this project does and the problem it solves.
-`Laravel` `Vue.js` `MySQL`
-
-### 🔹 [Project Name](https://github.com/NabilQastari/project)
-What this project does and the problem it solves.
-`React` `Next.js` `TypeScript`
-
-### 🔹 [Project Name](https://github.com/NabilQastari/project)
-What this project does and the problem it solves.
-`Flutter` `Dart`
-
----
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NabilQastari&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=NabilQastari&hide_border=false&theme=shadow_blue)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilQastari&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=NabilQastari&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
 
