@@ -5,7 +5,6 @@
 **Full-Stack Developer · Mobile Dev · Creative Technologist**
 
 [![GitHub followers](https://img.shields.io/github/followers/NabilQastari?label=Follow&style=social)](https://github.com/NabilQastari)
-[![Profile Views](https://visitcount.itsvg.in/api?id=NabilQastari&icon=6&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
